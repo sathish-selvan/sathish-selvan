@@ -22,28 +22,33 @@
 
 ### 🛠️ Tech Stack
 
-Languages:![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+**Languages**  
+&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 
-Web & Backend:
+**Web & Backend**  
+&nbsp;&nbsp;&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 
-DevOps & Tools:
+**DevOps & Tools**  
+&nbsp;&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
 
-Database:
+**Database**  
+&nbsp;&nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch)
 
-Cloud & Infra:
+**Cloud & Infrastructure**  
+&nbsp;&nbsp;&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
 
-Others:
 
 ---
 
