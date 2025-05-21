@@ -1,10 +1,10 @@
 <!-- Profile README for Sathish Selvan -->
 
 <h1 align="center">Hi 👋, I'm Sathish Selvan</h1>
-<h3 align="center">Engineer • DevOps Enthusiast • Embedded + Cloud Dev • Automation Lover</h3>
+<h3 align="center">Engineer • AI and ML Enthusiast • DevOps • Automation Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=40A2D8&center=true&vCenter=true&width=435&lines=Engineer+%7C+DevOps+%7C+IoT;Love+building+scalable+solutions;Automate+everything!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=40A2D8&center=true&vCenter=true&width=435&lines=Engineer+%7C+DevOps+%7C+AI;Building+scalable+solutions;Automate+everything!+🚀" alt="Typing SVG" />
 </p>
 
 ---
