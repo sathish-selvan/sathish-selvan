@@ -56,7 +56,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sathish-selvan&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sathish-selvan&theme=radical" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sathish-selvan&theme=radical" /> -->
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathish-selvan&layout=compact&theme=radical" />
@@ -78,10 +78,9 @@
   <a href="https://www.linkedin.com/in/sathish-selvan-56a508180/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourname@example.com">
+  <a href="mailto:sathish.t2000@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Add portfolio if available -->
 </p>
 
 ---
@@ -94,4 +93,3 @@
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
