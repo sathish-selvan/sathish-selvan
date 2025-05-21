@@ -4,7 +4,10 @@ I'm a passionate developer, engineer, and lifelong learner who enjoys building s
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sathish-selvan&show_icons=true&theme=tokyonight" alt="Sathish's GitHub stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathish-selvan&theme=tokyonight" alt="GitHub Streak" width="48%" /> </p>
+💼 LinkedIn [https://www.linkedin.com/in/sathish-selvan-56a508180/]
+
+📧 Email: sathish.t2000@gmail.com
+
 
 ## 🛠️ Tech Stack
 
