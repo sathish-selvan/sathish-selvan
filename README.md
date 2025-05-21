@@ -11,10 +11,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **IoT + Cloud orchestration projects**
-- ⚙️ I love working with **Docker, Nginx, APIs, and camera systems**
+- 🔭 I’m currently working on **AI/ML + Cloud orchestration projects**
+- ⚙️ I love working with **AI, Docker, APIs**
 - 🌱 I’m learning more about **AI edge processing** and **multi-device orchestration**
-- 💬 Ask me about **DevOps, Linux, Docker, or embedded systems**
+- 💬 Ask me about **AI, MLOPS DevOps, Docker**
 - ⚡ Fun fact: I automate everything I can — from servers to sensors 😄
 
 ---
@@ -23,10 +23,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberrypi)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
