@@ -11,5 +11,5 @@ Languages:        Python, JS
 Web & Backend:    Django,Flask, FastAPI
 DevOps & Tools:   Docker, GitHub Actions, Kubernetes
 Database:         PostgreSQL, MongoDB, Redis, ElasticSearch
-Cloud & Infra:    AWS, DigitalOcean, Nginx, Linux
-Others:           Raspberry Pi, OpenCV, WebRTC, REST APIs
+Cloud & Infra:    AWS, Linux
+Others:           Tkinter, OpenCV, Pygame, REST APIs
